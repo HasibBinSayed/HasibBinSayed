@@ -12,6 +12,8 @@
 
 ```
 Hasib Bin Sayed (Sib)
+
+   Love to think out of the box. 📦 Always learning upcoming tech. ⚡️❤️
 ```
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=700&color=00EB2C&width=697&height=45&lines=Cyber+Security+Specialist;Web+Developer+%26+Pentester;Blockchian+Developer;Freelancer+%26+Student)](https://git.io/typing-svg)
 <br>
@@ -79,9 +81,11 @@ Hasib Bin Sayed (Sib)
  
 <table>
   <tr>
+   <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   
   </tr>
 
 ```diff
