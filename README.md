@@ -12,8 +12,6 @@
 
 ```
 Hasib Bin Sayed (Sib)
-
-   Love to think out of the box. 📦 Always learning upcoming tech. ⚡️❤️
 ```
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=700&color=00EB2C&width=697&height=45&lines=Cyber+Security+Specialist;Web+Developer+%26+Pentester;Blockchian+Developer;Freelancer+%26+Student)](https://git.io/typing-svg)
 <br>
