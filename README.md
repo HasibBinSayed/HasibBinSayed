@@ -22,7 +22,7 @@ Hasib Bin Sayed (Sib)
   <li><b>Cloud: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>AWS</code> <code>Microsoft Azure</code> <code>GCP</code> <code>Alibaba Cloud</code></li>
   <li><b>DFIR: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Memory Forensics</code> <code>Windows</code> <code>Active Directory</code> <code>Malware Analysis</code></li>
   <li><b>OS: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Kali Linux</code> <code>Windows</code> <code>Ubuntu</code> <code>Mac</code> <code>Cent</code> <code>Fedora</code></li>
-  <li><b>Development: </b> <code>Backend Development</code> <code>Cyber Security Assestment</code> <code>Information & Network Analyst</code></li>
+  <li><b>Development: </b> <code>Backend Development</code> <code>Cyber Security Assestment</code> <code>Information & Network Analyst</code> <code>Blockchain Development</code></li>
   <li><b>Other: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Open Research</code> <code>Reverse Engineering</code> <code>Threat Hunting</code> <code>Security Assesment</code> <code>Audio Editing</code> <code>Data Storytelling</code> 
 <br>
 
